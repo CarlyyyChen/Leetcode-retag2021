@@ -657,3 +657,19 @@
 
 - [587. 安装栅栏](https://leetcode-cn.com/problems/erect-the-fence/)
 - [1515. 服务中心的最佳位置](https://leetcode-cn.com/problems/best-position-for-a-service-centre/)
+
+##背包问题
+
+#####01背包
+416. 分割等和子集 
+474. 一和零 
+494. 目标和 
+879. 盈利计划 
+1049. 最后一块石头的重量 
+1230. 抛掷硬币
+
+#####完全背包
+1449. 数位成本和为目标值的最大数字 
+322. 零钱兑换 
+518. 零钱兑换 II 
+279. 完全平方数
